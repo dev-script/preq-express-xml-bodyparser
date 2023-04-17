@@ -1,5 +1,5 @@
 {
-  "name": "express-xml-bodyparser",
+  "name": "preq-express-xml-bodyparser",
   "version": "0.3.0",
   "description": "Simple XML body parser connect/express middleware",
   "author": "Matthias Adler <macedigital@gmail.com> (http://matthiasadler.info/)",
@@ -10,7 +10,7 @@
     "fiznool (https://github.com/fiznool)",
     "dirksen (https://github.com/dirksen)"
   ],
-  "homepage": "https://github.com/macedigital/express-xml-bodyparser",
+  "homepage": "https://github.com/dev-script/preq-express-xml-bodyparser",
   "main": "./index.js",
   "scripts": {
     "test": "mocha 2> /dev/null",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:macedigital/express-xml-bodyparser.git"
+    "url": "git@github.com:dev-script/preq-express-xml-bodyparser.git"
   },
   "keywords": [
     "xml",
@@ -29,9 +29,6 @@
     "express"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/macedigital/express-xml-bodyparser/issues"
-  },
   "dependencies": {
     "xml2js": "^0.5.0"
   },
